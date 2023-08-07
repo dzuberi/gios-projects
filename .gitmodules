@@ -1,0 +1,9 @@
+[submodule "gios-spr-23-pr1"]
+	path = gios-spr-23-pr1
+	url = https://github.com/dzuberi/gios-spr-23-pr1
+[submodule "gios-spr-23-pr3"]
+	path = gios-spr-23-pr3
+	url = https://github.com/dzuberi/gios-spr-23-pr3
+[submodule "gios-spr-23-pr4"]
+	path = gios-spr-23-pr4
+	url = https://github.com/dzuberi/gios-spr-23-pr4
